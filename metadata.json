@@ -1,0 +1,8 @@
+{
+  "name": "Efes",
+  "description": "An AI-powered photo tourism guide that identifies landmarks, retrieves their history with Google Search, and narrates it using advanced TTS.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
